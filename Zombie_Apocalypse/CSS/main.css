@@ -41,7 +41,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b5bdc8', end
     font-size: 24px;
 }
 
-/* styling for slide paragraphs */
+/* styling for slide paragraphs */  
 .slide p {
         margin-top: 15px;
         margin-bottom: 30px;
